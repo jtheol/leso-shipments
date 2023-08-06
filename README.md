@@ -1,0 +1,4 @@
+Supply Chain Insights: Exploring Q3 FY2023 Shipments by LESO
+==============================
+
+This project aims to gain insights into the shipment data from the Law Enforcement Support Office (LESO) during the third quarter of the fiscal year 2023 (Q3 FY2023). LESO plays a crucial role in supporting law enforcement agencies by providing excess Department of Defence equipment and supplies to federal, state and local law enforcement agencies, making it essential to understand the shipment dynamics for better resource allocation and operational efficiency. The data used is during April 1 - June 30, 2023.
